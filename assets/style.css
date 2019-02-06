@@ -1,0 +1,49 @@
+.jumbotron {
+    color: black;
+    height: 100px;
+    text-align: center;
+    font-family: 'Kosugi Maru', sans-serif;
+    padding-bottom: 100px;
+  }
+
+  body {
+    background-image: url("../assets/images/agriculture-arid-bright-46160.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+    /* font-family: 'Merriweather', serif; */
+    
+}
+
+  h2 {
+      font-size: 15px;
+  }
+
+  h1 {
+    font-size: 55px;
+    font-weight: bold;
+}
+
+h3 {
+    background: #84BDEF;
+    opacity: .99;
+    font-weight: bold;
+}
+
+.row {
+    margin-top: 20px;
+    background: white;
+    opacity: 0.90;
+    font-family: 'Kosugi Maru', sans-serif;
+}
+
+.panel {
+  margin-top: 10px;
+  /* background:white; */
+}
+
+.btn {
+    background-color: #A0522D;
+    border: none;
+}
